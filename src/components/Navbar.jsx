@@ -6,7 +6,7 @@ const Navbar = () => {
         <nav className="navBar">
             <div className="nav-center">
                 <Link to='/'>
-                    <img src='src/assets/themix-logo.png' alt="The mixologist logo" className="logo"/>
+                    <img src='/assets/themix-logo.png' alt="The mixologist logo" className="logo"/>
                 </Link>
                 <ul className="nav-links">
                     <li>

@@ -10,8 +10,8 @@ const About = () => {
                     if you like the way it's done, you can find more about me and my projects on the following links.
                 </p>
                 <ul className="ul-about">
-                    <li><a href="#">Githbub</a></li>
-                    <li><a href="#">Linkedin</a></li>
+                    <li><a href="https://github.com/Letsdothis94" target="_blank" rel="redirects to github" >Githbub</a></li>
+                    <li><a href="https://www.linkedin.com/in/cristian-contreras-219888251/" target="_blank" rel="redirects to linkedin">Linkedin</a></li>
                 </ul>
             </div>
         </section>
