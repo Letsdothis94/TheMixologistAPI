@@ -5,12 +5,12 @@ const Navbar = () => {
     return (
         <nav className="navBar">
             <div className="nav-center">
-                <Link to='/'>
-                    <img src='/assets/themix-logo.png' alt="The mixologist logo" className="logo"/>
+                <Link to='/TheMixologistAPI/'>
+                    <img src='assets/themix-logo.png' alt="The mixologist logo" className="logo"/>
                 </Link>
                 <ul className="nav-links">
                     <li>
-                        <Link to='/'>Home</Link>
+                        <Link to='/TheMixologistAPI/'>Home</Link>
                     </li>
                     <li>
                         <Link to='/about'>About</Link>

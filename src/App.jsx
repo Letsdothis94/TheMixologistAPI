@@ -13,7 +13,7 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route path={'/'} element={
+        <Route path={'/TheMixologistAPI/'} element={
           <>
             <Home />
             <Footer />
